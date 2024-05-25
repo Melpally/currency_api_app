@@ -1,1 +1,1 @@
-# example-app2
+# TODO: add project description
